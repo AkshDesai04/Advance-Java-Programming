@@ -1,6 +1,3 @@
-// Draw ten red circles in a vertical column in the center of the applet using java
-
-//Graphic
 import java.awt.*;
 import javax.swing.*;
 
